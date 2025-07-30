@@ -31,10 +31,9 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local.
 
 1.  **Clona este repositorio** (o si lo descargaste directamente, descomprime el ZIP).
     ```bash
-    git clone [https://github.com/tu_usuario/holamundo.git](https://github.com/tu_usuario/holamundo.git)
+    git clone [https://github.com/ElAlgoritmoDeLaNoche/Backend-Java-de-0](https://github.com/ElAlgoritmoDeLaNoche/Backend-Java-de-0)
     cd holamundo
     ```
-    *(Nota: Reemplaza `https://github.com/tu_usuario/holamundo.git` con la URL de tu repositorio si lo subes a GitHub/GitLab en el futuro.)*
 
 2.  **Abre el proyecto en VS Code.**
     * Abre VS Code.
